@@ -1,12 +1,14 @@
 # plate-recognation
 
-#### Pre-requisite
-opencv-python
-easyocr
-pytesseract
+### Pre-requisite
+- opencv-python
+  
+- easyocr
+  
+- pytesseract
 
 
-#### How to run
+### How to run
 
 1. `pip install -r requirements.txt`
 
@@ -16,7 +18,7 @@ pytesseract
 
 4. press `q` to exit from the program.
 
-#### Tools
+### Tools
 
 - Google Collabs for easyOCR
 
